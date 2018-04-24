@@ -7,5 +7,6 @@ int main() {
     cin >>a>>b;
     cout << "a+b"<<"="<< a+b<<endl;
     cout << "a*2"<<'='<<a*b<<endl;
+    cout << "a-2"<<'='<<a*b<<endl;
     return 0;
 }
